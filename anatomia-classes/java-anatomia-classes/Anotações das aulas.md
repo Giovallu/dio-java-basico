@@ -97,3 +97,20 @@
 
     *Ex.: com.hypertech.notification;
           edu.lucas.segundasemana*
+
+|
+
+# Aula 6
+
+## Variáveis
+- Variável deve ser clara;
+- Sempre no singular, a não ser arrays ou coleção;
+- Idioma único para as variáveis;
+- Não recomendado abreviar palavras.
+
+## Métodos
+- Verbos no infinitivo;
+- Nomes objetivos;
+- Primeira letra de cada palavra deve ser maiúscula, a partir da segunda palavra;
+
+    *Ex.: somar(int n1, int n2){}; abrirConexao(){}; concluirProcessamento(){}; findByID(int id){};*
