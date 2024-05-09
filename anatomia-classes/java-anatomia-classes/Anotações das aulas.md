@@ -13,7 +13,7 @@
             ∟ String - tipo
             ∟ [] - expressão para determinar array
             ∟ arg - nome do parâmetro (arg - abreviação de argumentos/parâmetros)
-
+|
 # Aula 2
 
 - Arquivo .java :
@@ -24,13 +24,13 @@
         
     ∟ Ex.: "Calculadora.java", "CalculadoraCientifica.java"
 
-|
+--
 
 - Nome da classe no arquivo:
 
     ∟ nome da classe == nome do arquivo.java
 
-|
+--
     
 - Nome de variável:
    
@@ -52,6 +52,32 @@
 
     ∟ diferente de palavras reservadas da linguagem;
 
----------------------------------------------------------------------
+---------------------------------------------------------------
 
 *exceção: quando uma variável tem um valor constante, seu nome será definido inteiramente com letra maiúscula, separando palavras com underline( _ ). Ex.: PI, BR, ESTADO_BRASILEIRO, ANO_2000*
+
+|
+# Aula 3
+
+- Estrutura de Atribuição de Variáveis
+
+        Estrutura NomeBemDefinido = Atribuição (opcional em alguns casos)
+
+*Exemplos:  int idade = 23;
+            double altura = 1.62
+            Dog spike; (variável sem valor)*
+
+--------------------------------------------
+- Estrutura de Métodos
+
+        TipoRetorno NomeObjetivoNoInfinitivo Parametro(s)
+
+*Exemplos : int soma (int numero1, int numero2)
+            String formatarCep(long cep)*
+
+|
+
+# Aula 4
+
+- Identação: estrutura do código organizada de forma hierárquica e facilitando entendimento visualmente.
+
