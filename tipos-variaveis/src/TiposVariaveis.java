@@ -19,7 +19,7 @@ public class TiposVariaveis {
 		
 		final double VALOR_DE_PI = 3.14;
 		
-		VALOR_DE_PI=3.15; //Esta linha vai apresentar erro de compilação, pois a variável não pode ser alterada depois de declarada com "final" (é uma constante)
+		//VALOR_DE_PI=3.15; //Esta linha vai apresentar erro de compilação, pois a variável não pode ser alterada depois de declarada com "final" (é uma constante)
 
     }
 }
