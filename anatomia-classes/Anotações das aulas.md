@@ -96,7 +96,7 @@
     ∟ opensource - org./opensource.
 
     *Ex.: com.hypertech.notification;
-          edu.lucas.segundasemana*
+          edu.lucas.segundasemana.*
 
 |
 
@@ -113,4 +113,4 @@
 - Nomes objetivos;
 - Primeira letra de cada palavra deve ser maiúscula, a partir da segunda palavra;
 
-    *Ex.: somar(int n1, int n2){}; abrirConexao(){}; concluirProcessamento(){}; findByID(int id){};*
+    *Ex.: somar(int n1, int n2){}; abrirConexao(){}; concluirProcessamento(){}; findByID(int id){}.*
