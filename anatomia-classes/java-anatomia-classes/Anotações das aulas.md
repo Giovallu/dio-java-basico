@@ -81,3 +81,19 @@
 
 - Identação: estrutura do código organizada de forma hierárquica e facilitando entendimento visualmente.
 
+|
+
+# Aula 5 
+
+## Organização de arquivos
+
+- Pacotes (abreviações)
+
+    ∟ comercial - com. 
+    
+    ∟ organizacional - org.
+
+    ∟ opensource - org./opensource.
+
+    *Ex.: com.hypertech.notification;
+          edu.lucas.segundasemana*
