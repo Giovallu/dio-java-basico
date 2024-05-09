@@ -20,3 +20,11 @@
 
 - boolean - 1 bit
 - char - 1 byte
+
+# Aula 4
+
+## Variáveis x Constantes
+
+### Constantes
+- valores definidos que não podem ser modificados
+- declarada em CAIXA ALTA
