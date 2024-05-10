@@ -27,3 +27,14 @@ para atribuir ou alterar o valor de uma variável.
 - (--) - Decremento de valor em 1 unidade
 - (!) - Negação lógica
 
+# Aula 4
+
+## Incrementar/Decrementar
+
+préfixo - incremento/decremento acontece antes de executar
+pósfixo - incremento/decremento acontece depois de executar
+
+# Aula 5
+
+## Ternário
+
