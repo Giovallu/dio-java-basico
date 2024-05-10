@@ -38,3 +38,6 @@ pósfixo - incremento/decremento acontece depois de executar
 
 ## Ternário
 
+Exemplo:
+
+    String resultado = (a==b) ? "verdadeiro" : "false";
