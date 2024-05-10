@@ -54,3 +54,10 @@ Exemplo:
 - '<=' MENOR OU IGUAL
 
 *usar .equals. para comparar conteúdo objetos.*
+
+# Aula 7
+
+## Lógico
+
+- && 'E'
+- || 'OU'

@@ -1,6 +1,20 @@
 public class Operadores {
     public static void main(String[] args) {
 
+        /* (Aula 7)
+        boolean condicao1=true;
+        boolean condicao2=true;
+
+        if(condicao1 && condicao2){
+            System.out.println("As duas condições são verdadeiras");
+        }
+
+        if(condicao1 || condicao2){
+            System.out.println("Uma das duas condições é verdadeira");
+        }
+        
+        System.out.println("fim"); */
+
         /* (Aula 6)
         String nomeUm = "GIOVANNA";
         String nomeDois = new String("GIOVANNA");
