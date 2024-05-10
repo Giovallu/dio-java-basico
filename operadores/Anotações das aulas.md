@@ -41,3 +41,16 @@ pósfixo - incremento/decremento acontece depois de executar
 Exemplo:
 
     String resultado = (a==b) ? "verdadeiro" : "false";
+
+# Aula 6
+
+## Relacionais
+
+- == IGUAL A
+- != DIFERENTE
+- '>' MAIOR QUE
+- '>=' MAIOR OU IGUAL
+- '<' MENOR QUE
+- '<=' MENOR OU IGUAL
+
+*usar .equals. para comparar conteúdo objetos.*

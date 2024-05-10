@@ -1,7 +1,34 @@
 public class Operadores {
     public static void main(String[] args) {
 
-        /* int a, b;
+        /* (Aula 6)
+        String nomeUm = "GIOVANNA";
+        String nomeDois = new String("GIOVANNA");
+
+        System.out.println(nomeUm.equals(nomeDois));// para comparar conteúdo de objeto, se não, como são objetos diferentes, dará 'false'
+
+        int numero1 = 1;
+        int numero2 = 2;
+
+        boolean simNao = numero1 == numero2;
+
+        if(numero1 < numero2){
+            System.out.println("a nossa condição é verdadeira");
+        }
+
+        System.out.println("numeroUm é igual a numeroDois? " + simNao);
+
+        simNao = numero1 != numero2;
+
+        System.out.println("numeroUm é diferente de numeroDois? " + simNao);
+        
+        simNao = numero1 > numero2;
+
+        System.out.println("numeroUm é maior que numeroDois? " + simNao); */
+
+
+        /* (Aula 5)
+        int a, b;
 
         a = 6;
         b = 6;
