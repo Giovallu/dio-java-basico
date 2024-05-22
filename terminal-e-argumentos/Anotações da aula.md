@@ -1,0 +1,16 @@
+# Aula 1
+
+## Terminal e Argumentos
+
+Explorar entrada e saída de dados
+
+- *main args*
+- Scanner
+- Execução via IDE
+- Execução via prompt de comando
+
+# Aula 2
+
+- *java MinhaClasse* - para rodar \bin\ .class
+- *javac MinhaClasse.java* - compilar arquivo .java
+
